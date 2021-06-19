@@ -1,5 +1,6 @@
-# codewars-solutions
-My collection of solutions for Codewars
+# Codewars Question Set
+This repo contains the problems ordered via difficulty level. Some solutions are added. You can use it sequentially to improve your problem solving skill.
+
 
 ## 8kyu
 
