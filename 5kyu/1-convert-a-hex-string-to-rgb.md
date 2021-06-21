@@ -9,3 +9,4 @@
 <p><code>hexStringToRGB(&quot;#FF9933&quot;)   // returns {r:255, g:153, b:51}</code></p>
 
 ### Solution
+#Test
